@@ -1,0 +1,60 @@
+@media (max-width: 768px) {
+  .navbar {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .btn-1 {
+    margin-left: 5%;
+  }
+  .sub-hed {
+    padding-right: 50%;
+  }
+  .menu h1 {
+    margin-left: 5%;
+  }
+  .bg-image1 {
+    width: 100%;
+    padding-right: 50%;
+  }
+  .image-row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 20%;
+  }
+  .story {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .strory-img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .main-menu {
+    width: 100%;
+    display: block;
+
+    flex-wrap: wrap;
+    padding-left: 20px;
+  }
+  .box1 {
+    width: 100%;
+  }
+  .box2 {
+    width: 100%;
+  }
+  .box3 {
+    width: 100%;
+  }
+  .menu-bg {
+    visibility: hidden;
+  }
+}
